@@ -8,7 +8,7 @@ My `uses` page inspired by https://uses.tech
 
 # Devices
 
-I'm using multiple devices trough different platform. I have covered most of novadays popular operating system. 
+I use a diverse range of devices and platforms to maintain proficiency across all major operating systems—essential for systems administration and security research.
 
 ## 💻 Linux Laptop
 
@@ -20,7 +20,7 @@ I'm using multiple devices trough different platform. I have covered most of nov
 ## 💾 PC
 
 - Intel Core Ultra 7 265K
-- 64GB DDR5 Ram
+- 64GB DDR5 Ram - *plenty of room for virtualization*
 - 4TB Disk space
 - Geforce GTX 960
 - 2x DELL 23,8"
@@ -34,14 +34,21 @@ I'm using multiple devices trough different platform. I have covered most of nov
 - 256GB SSD
 - 16GB Ram
 
-## ☁️ Servers
+## ☁️ Homelab
 
-### Hardware
+### 🌐 Networking
+
+- MikroTik ⭐️ for Wifi and Routing
+- Cisco switches
+- Some [TP-Link PLCs](https://www.tp-link.com/cz/home-networking/powerline/)
+
+### ⚙️ Server Hardware
 
 - HP Microserver gen 10 - with 24GB RAM for data storage
 - Dell Optiplex 7020 - with 16GB RAM for proxmox
 - Raspberry Pi 3B 📦
 - Raspberry Pi 4 📦
+- 🔋UPS EATON 5E 850i USB
 
 ### Software
 
@@ -50,6 +57,8 @@ I'm using multiple devices trough different platform. I have covered most of nov
 - LXC
 
 ## 📱 Mobile devices
+
+*Maintained for mobile application security testing and ecosystem familiarity.*
 
 - 🤖 Android phone
 	- Samsung Galaxy S24 Ultra
@@ -62,8 +71,6 @@ I'm using multiple devices trough different platform. I have covered most of nov
 - 📱 Tablet
 	- Apple iPad Pro 11" (2022)
 	- Purple Apple iPad Mini (2019)
-
-
 
 ## 🎮 Gaming Console
 
@@ -99,27 +106,21 @@ I'm using multiple devices trough different platform. I have covered most of nov
 	- Xiaomi Mi Computer Light Bar
 - 🏗️ Tablet Stand
 	- Satechi [R1 Aluminium Hinge Holder](https://satechi.net/products/satechi-r1-aluminum-hinge-holder-pro-stand-for-macbook-2015-2016-nintendo-switch-iphone-7-samsung-s8-and-more)
-- 🔋UPS
-	- EATON 5E 850i USB - for server
+
+## 🔌 Electronics & Hardware Hacking
+
 - ⚡️Multimeter
     - UNI-T 15B Max
 - Soldiering station
     - ZD 99 48W
 
-
-
 ## 🤖 Smart Home
 
-- Some [TP-Link PLCs](https://www.tp-link.com/cz/home-networking/powerline/)
 - [TP-Link Tapo P300 Power Strip](https://www.amazon.de/TP-Link-Tapo-P300-Multiple-Guarantee/dp/B0BGSHS9FN?ref_=ast_sto_dp) - fastened under my standing desk
 - Bunch of smart bulbs and LED stripes
 - [Tapo Smart Hub with Ringtone Tapo H100](https://www.amazon.de/Tapo-Ringtone-H100-Ringtones-Compatible/dp/B0BCWNBNTK?ref_=ast_sto_dp)
 - [Tapo P110](https://www.amazon.de/TP-Link-Tapo-P110-Consumption-Required/dp/B09BFT7NZJ?ref_=ast_sto_dp&th=1)
-- MikroTik ⭐️ for Wifi and Routing
-- Cisco switches
 - Xiaomi Mi Box TV
-
-
 
 # ✏️ Analogue
 
