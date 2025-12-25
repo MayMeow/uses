@@ -25,10 +25,7 @@ I use a diverse range of devices and platforms to maintain proficiency across al
 - Geforce GTX 960
 - 2x DELL 23,8"
 
-
-
-
-## 🍎 Mac mini ⭐️
+## 🍎 Mac mini
 
 - [M4 chip](https://www.apple.com/mac-mini/specs/)
 - 256GB SSD
@@ -38,7 +35,7 @@ I use a diverse range of devices and platforms to maintain proficiency across al
 
 ### 🌐 Networking
 
-- MikroTik ⭐️ for Wifi and Routing
+- MikroTik for Wifi and Routing
 - Cisco switches
 - Some [TP-Link PLCs](https://www.tp-link.com/cz/home-networking/powerline/)
 
@@ -63,10 +60,8 @@ I use a diverse range of devices and platforms to maintain proficiency across al
 - 🤖 Android phone
 	- Samsung Galaxy S24 Ultra
 	- Galaxy Watch 7
-	- Galaxy band fit3
 - 🍎 iPhone
 	- Apple iPhone 16 Pro Max
-	- Apple iPhone 15 Plus
 	- Apple Watch 10
 - 📱 Tablet
 	- Apple iPad Pro 11" (2022)
@@ -74,27 +69,24 @@ I use a diverse range of devices and platforms to maintain proficiency across al
 
 ## 🎮 Gaming Console
 
-- Nintendo Switch OLED Splatoon Edition ⭐️ - this is my first gaming console since of those [Brick Game](https://retroconsoles.fandom.com/wiki/Brick_Game) consoles.
+- Nintendo Switch OLED Splatoon Edition - this is my first gaming console since of those [Brick Game](https://retroconsoles.fandom.com/wiki/Brick_Game) consoles.
 
 ## ⌨️ Peripherals
 
 - ⌨️ Keyboard
-	- Logitech MX keys mini mechanical ⭐️
-	- Anne Pro 2 (im not very big fan of the layout)
+	- Logitech MX keys mini mechanical
 	- Apple keyboard mini (white, without touchID)
 	- Logitech Keys-to-go 2
 - 🖱️ Mice
-	- Logitech MX Master 3S ⭐️
+	- Logitech MX Master 3S
 	- Apple Magic Mouse (not a fan of ergonomics)
-	- Logitech M220 silent (when on the go)
-	- Apple Magic Trackpad ⭐️
+	- Apple Magic Trackpad
 	- Logitech Pebble Mouse 2 (iPad, Samsung DEX)
 - 🎮 Game controllers
 	- X-Box Wireless controller (black)
 	- Nintendo Switch Pro Controller
 	- Nintendo Switch Joy-con Pastel Purple / Pastel Green
 - 🎧 Headphones
-	- Samsung Galaxy Buds pro 🙅‍♂️
 	- Apple Airpods 2
 	- Sony WH-CH520 (can connect to 2 davices at same time)
 - 🖊️ Pen
@@ -126,6 +118,8 @@ I use a diverse range of devices and platforms to maintain proficiency across al
 
 ## Pens
 
-- Pilot Hi-Tecpoint V5 ⭐️
-- Pilot Hi-Tecpoint V7 ⭐️
+- Pilot Hi-Tecpoint V5
+- Pilot Hi-Tecpoint V7
 - Pilot V-Pen (fountain pen) - I like it but it has erasable atrament and it is not truly black but very dark gray...
+
+*ℹ️ This list changes over time as tools are tested, replaced, or removed.*
