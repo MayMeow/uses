@@ -17,7 +17,7 @@ I'm using multiple devices trough different platform. I have covered most of nov
 	- 1TB SSD
 	- 16 GB RAM
 
-## 💾 Gaming PC (kind of...)
+## 💾 PC
 
 - Intel Core Ultra 7 265K
 - 64GB DDR5 Ram
@@ -101,6 +101,10 @@ I'm using multiple devices trough different platform. I have covered most of nov
 	- Satechi [R1 Aluminium Hinge Holder](https://satechi.net/products/satechi-r1-aluminum-hinge-holder-pro-stand-for-macbook-2015-2016-nintendo-switch-iphone-7-samsung-s8-and-more)
 - 🔋UPS
 	- EATON 5E 850i USB - for server
+- ⚡️Multimeter
+    - UNI-T 15B Max
+- Soldiering station
+    - ZD 99 48W
 
 
 
