@@ -1,6 +1,6 @@
 ---
 title: "/uses"
-date: 2023-01-10T13:43:52+01:00
+date: 2025-12-25T15:05:52+01:00
 draft: false
 ---
 
@@ -27,10 +27,10 @@ I'm using multiple devices trough different platform. I have covered most of nov
 
 
 ```diff
-+ Intel Core Ultra 7 265K
-+ 64GB DDR5 Ram
-- Intel Core i5-4670K
-- 32GB RAM DDR3
++ 10.0205 Intel Core Ultra 7 265K
++ 10.2025 64GB DDR5 Ram
+- 10.2025 Intel Core i5-4670K
+- 10.2025 32GB RAM DDR3
 ```
 
 ## 🍎 Mac mini ⭐️
@@ -89,7 +89,7 @@ I'm using multiple devices trough different platform. I have covered most of nov
 	- Logitech MX keys mini mechanical ⭐️
 	- Anne Pro 2 (im not very big fan of the layout)
 	- Apple keyboard mini (white, without touchID)
-	- Logitech Keys-to-go 2 (perfect for use with iPad or Samsung DEX)
+	- Logitech Keys-to-go 2
 - 🖱️ Mice
 	- Logitech MX Master 3S ⭐️
 	- Apple Magic Mouse (not a fan of ergonomics)
@@ -101,7 +101,7 @@ I'm using multiple devices trough different platform. I have covered most of nov
 	- Nintendo Switch Pro Controller
 	- Nintendo Switch Joy-con Pastel Purple / Pastel Green
 - 🎧 Headphones
-	- Samsung Galaxy Buds pro 🙅‍♂️ (maybe due my ear shape or something else but at the end they won't fit properly and even talking make them fall of my ears)
+	- Samsung Galaxy Buds pro 🙅‍♂️
 	- Apple Airpods 2
 	- Sony WH-CH520 (can connect to 2 davices at same time)
 - 🖊️ Pen
