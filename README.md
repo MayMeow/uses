@@ -26,12 +26,7 @@ I'm using multiple devices trough different platform. I have covered most of nov
 - 2x DELL 23,8"
 
 
-```diff
-+ 10.0205 Intel Core Ultra 7 265K
-+ 10.2025 64GB DDR5 Ram
-- 10.2025 Intel Core i5-4670K
-- 10.2025 32GB RAM DDR3
-```
+
 
 ## 🍎 Mac mini ⭐️
 
@@ -68,16 +63,7 @@ I'm using multiple devices trough different platform. I have covered most of nov
 	- Apple iPad Pro 11" (2022)
 	- Purple Apple iPad Mini (2019)
 
-```diff
-+ 04.2025 - Apple Watch 10
-+ 04.2025 - Galaxy Watch 7
-+ 12.2024 - Apple iPhone 16 Pro Max
-+ 02.2024 - Samsung Galaxy s24 Ultra
-- 04.2025 - Galaxy Watch 4: after update to Oneui 6. they are very slow
-- 04.2025 - Apple Watch 6
-- 02.2024 - Samsung Galaxy S23 Ultra (sold)
-- 09.2018 - Galaxy Watch 47mm
-```
+
 
 ## 🎮 Gaming Console
 
@@ -116,11 +102,7 @@ I'm using multiple devices trough different platform. I have covered most of nov
 - 🔋UPS
 	- EATON 5E 850i USB - for server
 
-```diff
-+ 05.2025 - Logitech Keys-to-go 2
-+ 05.2025 - Logitech Pebble Mouse 2
-- 06.2025 - Apple AirPods Pro 1st gen. (broken ANC)
-```
+
 
 ## 🤖 Smart Home
 
@@ -133,9 +115,7 @@ I'm using multiple devices trough different platform. I have covered most of nov
 - Cisco switches
 - Xiaomi Mi Box TV
 
-```diff
-+ 06.2025 TP-Link PLCs
-```
+
 
 # ✏️ Analogue
 
